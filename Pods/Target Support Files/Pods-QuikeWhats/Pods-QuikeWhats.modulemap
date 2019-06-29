@@ -1,0 +1,6 @@
+framework module Pods_QuikeWhats {
+  umbrella header "Pods-QuikeWhats-umbrella.h"
+
+  export *
+  module * { export * }
+}
